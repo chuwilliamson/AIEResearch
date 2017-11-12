@@ -4,6 +4,6 @@ Various implementations of AR/VR and non AR/VR applications. For students who ha
 
 ## How to contribute.
 
-Create a local branch of the type of project you are working on.
-Provide "enough" documentation to support a merge request. 
-Make a pull request to whichever branch you copied.
+ 1.Create a local branch of the type of project you are working on.
+ 2.Provide "enough" documentation to support a merge request. 
+ 3.Make a pull request to whichever branch you copied.
