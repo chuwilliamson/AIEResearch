@@ -2,6 +2,10 @@
 
 Various implementations of AR/VR and non AR/VR applications. For students who have graduated and would still like to contribute to the ongoing development of AIE codebase.
 
+## Wiki
+Checkout the wiki and add content as you see fit.
+https://github.com/chuwilliamson/AIEResearch/wiki
+
 ## How to contribute.
 
   1. Create a local branch of the type of project you are working on.  
